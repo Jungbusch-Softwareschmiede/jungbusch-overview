@@ -1,7 +1,7 @@
 # jungbusch-overview
 Eine Übersicht aller Jungbusch-Repos, die es erlaubt die Links der Repos zu Ändern, ohne dass sie unauffindbar werden.
 
-[Jungbusch-Auditorium]()
+[Jungbusch-Auditorium](https://github.com/Jungbusch-Softwareschmiede/jungbusch-auditorium)
 
 [Jungbusch-Auditorium Audit-Konfigurationsdateien](https://github.com/Jungbusch-Softwareschmiede/jungbusch-audits)
 
