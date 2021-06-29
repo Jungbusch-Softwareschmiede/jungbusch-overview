@@ -7,4 +7,4 @@ Eine Übersicht aller Jungbusch-Repos, die es erlaubt die Links der Repos zu Än
 
 [Jungbusch-Auditorium Benutzerhandbuch](https://github.com/Jungbusch-Softwareschmiede/jungbusch-manual)
 
-[Jungbusch-Auditorium Technische Dokumentation]()
+[Jungbusch-Auditorium Technische Dokumentation](https://github.com/Jungbusch-Softwareschmiede/jungbusch-documentation)
